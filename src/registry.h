@@ -3,7 +3,6 @@
 
 #include <cstddef>  // std::size_t
 #include <vector>  // std::vector
-#include <algorithm> // Required for std::find
 #include <utility> // Required for std::forward
 #include <cassert> // Required for assert
 #include <iostream> // std::cout
